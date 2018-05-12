@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2656
     wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23918#The-Little-Quakeror-the-Triumph-of-Virtue.-A-Tale-for-the-Instruction-of-Youth
 gutenberg_issued: '2007-12-19'
 gutenberg_type: Text
 identifiers:
